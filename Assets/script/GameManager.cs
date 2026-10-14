@@ -47,4 +47,6 @@ public class GameManager : MonoBehaviour
 
         recordText.text = "Best Time : " + (int)bestTime;
     }
+
+
 }
